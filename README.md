@@ -3,6 +3,7 @@ SQLRite - Design Discussions
 This repo was created to coordinate our shared efforts, maintain interesting discussions towards the development of `SQLRite`
 
 `SQLRite` , is a simple embedded database developed with `Rust`. The goal is to go where no man has gone before.
+ Source repo: https://github.com/joaoh82/rust_sqlite
 
 > What I cannot create, I do not understand. 
 > — Richard Feynman
